@@ -7,6 +7,16 @@ Luke Watts
 I am a full-stack developer with 8 years professional experience in the industry. I enjoy learning new tools and technologies, whether this is within a project or as an exploratory exercise. Primarily focused on web technologies, I believe that the strong foundation of open source these tools benefit from, make the platform an ideal place for fostering dialogue between people.
 
 
+Languages & Technologies
+---
+
+__Languages__ PHP, Javascript, Ruby, Processing, Arduino, Python  
+__Frameworks__ Node.js, Express, Meteor, Koa, Vue, WordPress, Laravel, Slim, Kirby, Sinatra, PHPUnit, Mocha, Ava, Intern  
+__Databases__ MySQL, MongoDB, Redis  
+__Tooling__ Git, Grunt, Gulp, bash, zsh  
+__Operations__ OSX, Linux, EC2, Openshift, Azure, Docker, Vagrant  
+
+
 Current Employment
 ---
 
@@ -27,6 +37,7 @@ Alongside the demands of client work I have also:
 * Built bespoke invoice software for the company and introduced specialist accounting software to automate most of the financial tasks.
 * Maintained the studio's suite of machines (primarily OSX)
 * Introduced offsite backup procedures to ensure ultimate resilience for the company's data.
+
 
 __Highlights__
 
@@ -63,16 +74,6 @@ I focused on introducing web technologies as a medium for editorial output, acro
 Summer 2010
 
 Worked alongside a senior developer to design and build out a bespoke CMS for a production studio. Notably this system handled video uploads and transcoding of video formats for playback a custom Flash media player.
-
-
-Languages & Technologies
----
-
-__Languages__ PHP, Javascript, Ruby, Processing, Arduino, Python  
-__Frameworks__ Node.js, Express, Meteor, Koa, Vue, WordPress, Laravel, Slim, Kirby, Sinatra, PHPUnit, Mocha, Ava, Intern  
-__Databases__ MySQL, MongoDB, Redis  
-__Tooling__ Git, Grunt, Gulp, bash, zsh  
-__Operations__ OSX, Linux, EC2, Openshift, Azure, Docker, Vagrant  
 
 
 Interests
