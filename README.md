@@ -20,8 +20,14 @@ __Operations__ OSX, Linux, EC2, Openshift, Azure, Docker, Vagrant
 Current Employment
 ---
 
+### Director, LA Code & Design BV
+October 2018 – Present
+
+### Developer, Snyk Ltd
+October 2017 – 2018
+
 ### Technical Lead, Bravo Charlie Mike Hotel
-January 2015 – Present
+January 2015 – October 2017
 
 Design and branding agency working internationally to deliver projects for clients across a wide variety of sectors.
 
