@@ -4,7 +4,7 @@ Luke Watts
 * [+44 (0)7885 910 261](tel:00447885910261) 
 * [luke@thisis.la](mailto:luke@thisis.la)
 
-I am a full-stack developer with 8 years professional experience in the industry. I enjoy learning new tools and technologies, whether this is within a project or as an exploratory exercise. Primarily focused on web technologies, I believe that the strong foundation of open source these tools benefit from, make the platform an ideal place for fostering dialogue between people.
+I am a full-stack developer with 9 years professional experience in the industry. I enjoy learning new tools and technologies, whether this is within a project or as an exploratory exercise. Primarily focused on web technologies, I believe that the strong foundation of open source these tools benefit from, make the platform an ideal place for fostering dialogue between people.
 
 
 Languages & Technologies
@@ -20,8 +20,11 @@ __Operations__ OSX, Linux, EC2, Openshift, Azure, Docker, Vagrant
 Current Employment
 ---
 
+### Developer, Snyk Ltd
+September 2019 – Present
+
 ### Director, LA Code & Design BV
-October 2018 – Present
+October 2018 – September 2019
 
 ### Developer, Snyk Ltd
 October 2017 – 2018
