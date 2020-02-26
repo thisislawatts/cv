@@ -1,8 +1,8 @@
 Luke Watts
 ===
 
-* [+44 (0)7885 910 261](tel:00447885910261) 
-* [luke@thisis.la](mailto:luke@thisis.la)
+* [+31 (0)624 882 690](tel:0031624882690)  
+* [luke@bestemployeeever.com](mailto:luke@bestemployeeever.com)
 
 I am a full-stack developer with 9 years professional experience in the industry. I enjoy learning new tools and technologies, whether this is within a project or as an exploratory exercise. Primarily focused on web technologies, I believe that the strong foundation of open source these tools benefit from, make the platform an ideal place for fostering dialogue between people.
 
@@ -10,24 +10,43 @@ I am a full-stack developer with 9 years professional experience in the industry
 Languages & Technologies
 ---
 
-__Languages__ PHP, Javascript, Ruby, Processing, Arduino, Python  
-__Frameworks__ Node.js, Express, Meteor, Koa, Vue, WordPress, Laravel, Slim, Kirby, Sinatra, PHPUnit, Mocha, Ava, Intern  
-__Databases__ MySQL, MongoDB, Redis  
-__Tooling__ Git, Grunt, Gulp, bash, zsh  
-__Operations__ OSX, Linux, EC2, Openshift, Azure, Docker, Vagrant  
+__Languages__ Typescript, Javascript, PHP, Python, Ruby  
+__Frameworks__ Node.js, Express, Meteor, Koa, Vue, Laravel, Slim, Kirby, WordPress, PHPUnit, Mocha, Ava, Jest, tap  
+__Datastores__ PostGres, MySQL, MongoDB, Redis, BigQuery  
+__Tooling__ Git, webpack, zsh  
+__Operations__ Kubernetes, Docker, EC2, Openshift, Azure, Docker, Vagrant  
 
 
 Current Employment
 ---
 
-### Developer, Snyk Ltd
+### Software Team Lead, Snyk Ltd
 September 2019 – Present
 
-### Director, LA Code & Design BV
-October 2018 – September 2019
+Software security tool for developers, helping companies use open source software and stay secure.
+
+* Providing team members with regular feedback, mentoring, and coaching.
+* Hiring the right people to support the team's growth.
+* Organizing and facilitating quarterly team planning sessions for our distributed team.
+* Working with your team’s product manager to plan and achieve goals to ensure the team communicates proactively and sets realistic expectations with their stakeholders.
+* Balance feature delivery with ongoing technical investment.
+
+__Highlights__
+
+* Introduced an experiments based methodology for the team which offered us the opportunity to explore and enhance the engagement and adoption of our features.
+* Leading planning sessions as part of the annual all-hands meeting and presenting the results back to a 200 strong audience. 
 
 ### Developer, Snyk Ltd
-October 2017 – 2018
+October 2017 – September 2019
+
+* Designing features with the product team based on user needs and outlining their implementation. 
+* Deliver a SaaS application incrementally in a full CI/CD workflow.
+* Working as part of a distributed team, communicating clearly and proactively and clear. 
+
+__Highlights__
+
+* Introducing Vue to begin the migration from a server rendered application to one with more client side components to support more interactive user experiences. 
+* Migrated the e2e test suite from Nightwatch to  Cypress making it easier for developers to run and author additional tests locally. 
 
 ### Technical Lead, Bravo Charlie Mike Hotel
 January 2015 – October 2017
