@@ -7,21 +7,21 @@ Luke Watts
 I am a full-stack developer with 9 years professional experience in the industry. I enjoy learning new tools and technologies, whether this is within a project or as an exploratory exercise. Primarily focused on web technologies, I believe that the strong foundation of open source these tools benefit from, make the platform an ideal place for fostering dialogue between people.
 
 
-Languages & Technologies
+Tools & Technologies
 ---
 
-__Languages__ Typescript, Javascript, PHP, Python, Ruby  
+__Languages__ Typescript, Javascript, Python, PHP, Ruby  
 __Frameworks__ Node.js, Express, Meteor, Koa, Vue, Laravel, Slim, Kirby, WordPress, PHPUnit, Mocha, Ava, Jest, tap  
 __Datastores__ PostGres, MySQL, MongoDB, Redis, BigQuery  
 __Tooling__ Git, webpack, zsh  
 __Operations__ Kubernetes, Docker, EC2, Openshift, Azure, Docker, Vagrant  
 
 
-Current Employment
+Experience
 ---
 
 ### Software Team Lead, Snyk Ltd
-September 2019 – Present
+September 2019 – October 2020
 
 Software security tool for developers, helping companies use open source software and stay secure.
 
