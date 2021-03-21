@@ -12,7 +12,7 @@ Tools & Technologies
 
 __Languages__ Typescript, Javascript, Python, PHP, Ruby  
 __Frameworks__ Node.js, Express, Meteor, Koa, Vue, Laravel, Slim, Kirby, WordPress, PHPUnit, Mocha, Ava, Jest, tap  
-__Datastores__ PostGres, MySQL, MongoDB, Redis, BigQuery  
+__Datastores__ PostgreSQL, MySQL, MongoDB, Redis, BigQuery  
 __Tooling__ Git, webpack, zsh  
 __Operations__ Kubernetes, Docker, EC2, Openshift, Azure, Docker, Vagrant  
 
