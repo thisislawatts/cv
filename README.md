@@ -1,5 +1,4 @@
-Luke Watts
-===
+# Luke Watts
 
 * [+31 (0)624 882 690](tel:0031624882690)  
 * [luke@bestemployeeever.com](mailto:luke@bestemployeeever.com)
@@ -7,18 +6,54 @@ Luke Watts
 I am a full-stack developer with 9 years professional experience in the industry. I enjoy learning new tools and technologies, whether this is within a project or as an exploratory exercise. Primarily focused on web technologies, I believe that the strong foundation of open source these tools benefit from, make the platform an ideal place for fostering dialogue between people.
 
 
-Tools & Technologies
----
+## Tools & Technologies
 
-__Languages__ Typescript, Javascript, Python, PHP, Ruby  
-__Frameworks__ Node.js, Express, Meteor, Koa, Vue, Laravel, Slim, Kirby, WordPress, PHPUnit, Mocha, Ava, Jest, tap  
-__Datastores__ PostgreSQL, MySQL, MongoDB, Redis, BigQuery  
-__Tooling__ Git, webpack, zsh  
-__Operations__ Kubernetes, Docker, EC2, Openshift, Azure, Docker, Vagrant  
+### Languages
+* Typescript
+* Javascript
+* Python
+* PHP
+* Ruby  
+
+### Frameworks
+* Node.js
+* Express
+* Meteor
+* Koa
+* Vue
+* Laravel
+* Slim
+* Kirby
+* WordPress
+* PHPUnit
+* Mocha
+* Ava
+* Jest
+* tap  
+
+### Datastores
+* PostgreSQL
+* MySQL
+* MongoDB
+* Redis
+* BigQuery  
+
+### Tooling
+* Git
+* webpack
+* zsh  
+
+### Operations
+* Kubernetes
+* Docker
+* EC2
+* Openshift
+* Azure
+* Docker
+* Vagrant  
 
 
-Experience
----
+## Experience
 
 ### Software Team Lead, Snyk Ltd
 September 2019 – October 2020
@@ -31,7 +66,7 @@ Software security tool for developers, helping companies use open source softwar
 * Working with your team’s product manager to plan and achieve goals to ensure the team communicates proactively and sets realistic expectations with their stakeholders.
 * Balance feature delivery with ongoing technical investment.
 
-__Highlights__
+#### Highlights
 
 * Introduced an experiments based methodology for the team which offered us the opportunity to explore and enhance the engagement and adoption of our features.
 * Leading planning sessions as part of the annual all-hands meeting and presenting the results back to a 200 strong audience. 
@@ -43,7 +78,7 @@ October 2017 – September 2019
 * Deliver a SaaS application incrementally in a full CI/CD workflow.
 * Working as part of a distributed team, communicating clearly and proactively and clear. 
 
-__Highlights__
+#### Highlights
 
 * Introducing Vue to begin the migration from a server rendered application to one with more client side components to support more interactive user experiences. 
 * Migrated the e2e test suite from Nightwatch to  Cypress making it easier for developers to run and author additional tests locally. 
@@ -66,12 +101,10 @@ Alongside the demands of client work I have also:
 * Maintained the studio's suite of machines (primarily OSX)
 * Introduced offsite backup procedures to ensure ultimate resilience for the company's data.
 
-
-__Highlights__
+#### Highlights
 
 * Working with the estates team at Kings Cross to put together a performance piece with fountains, powered by GIF imagery, to accompany a string quartet at Kings Cross Granary Square. As part of the designjunction event, it attracted over 25,000 visitors over the weekend. 
 * Introducing the team to new methodologies and techniques, such as weekly sprints, mobile first and responsive design patterns. 
-
 
 ### Director, LA Code & Design Ltd
 December 2012 – 2014
@@ -81,7 +114,7 @@ Worked as full stack web developer on a contract basis with a number of London b
 * Working alongside designers from the earliest stages of prototyping and scoping out projects through to completion, troubleshooting and handover.
 * Providing in-office training as part of the hand-over with the client teams.
 
-__Highlights__
+#### Highlights
 
 * Working alongside multiple teams across different studios. This offered me the chance to experience different working methodologies. 
 * Being able to have the flexibility to attend industry events in the UK and abroad.  
@@ -104,16 +137,14 @@ Summer 2010
 Worked alongside a senior developer to design and build out a bespoke CMS for a production studio. Notably this system handled video uploads and transcoding of video formats for playback a custom Flash media player.
 
 
-Interests
----
+## Interests
 
 Away from the computer, I’m a keen cyclist and can often be found meandering around the lanes of Kent and Surrey thinking of longer rides. The longest to date being a single day ride between London and Somerset.
 
 I’m also in the early stages of learning German, aber diese ist ein langsamer Prozess.
 
 
-Education
----
+## Education
 
 ### University for the Creative Arts
 September 2007 – June 2010
