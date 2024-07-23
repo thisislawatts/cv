@@ -1,62 +1,26 @@
 # Luke Watts
 
-* [+31 (0)624 882 690](tel:0031624882690)  
+* [+31 (0)&thinsp;624 882 690](tel:0031624882690)  
 * [luke@bestemployeeever.com](mailto:luke@bestemployeeever.com)
 
-I am a full-stack developer with 9 years professional experience in the industry. I enjoy learning new tools and technologies, whether this is within a project or as an exploratory exercise. Primarily focused on web technologies, I believe that the strong foundation of open source these tools benefit from, make the platform an ideal place for fostering dialogue between people.
+I am a full-stack developer with 9 years experience in product and agency teams. I enjoy learning new tools and technologies. This could be part of a business critical project or exploratory research.
+
+The most enjoyable projects to work on are those where I can take part from beginning to end. The starting point could be a loose collection of requirements or quick sketch. Working collaboratively to create something useful, that brings value to people.
 
 
 ## Tools & Technologies
 
-### Languages
-* Typescript
-* Javascript
-* Python
-* PHP
-* Ruby  
-
-### Frameworks
-* Node.js
-* Express
-* Meteor
-* Koa
-* Vue
-* Laravel
-* Slim
-* Kirby
-* WordPress
-* PHPUnit
-* Mocha
-* Ava
-* Jest
-* tap  
-
-### Datastores
-* PostgreSQL
-* MySQL
-* MongoDB
-* Redis
-* BigQuery  
-
-### Tooling
-* Git
-* webpack
-* zsh  
-
-### Operations
-* Kubernetes
-* Docker
-* EC2
-* Openshift
-* Azure
-* Docker
-* Vagrant  
-
+__Ways of Working__ – Agile, scrum, mentoring, coaching, design thinking, TDD&nbsp;&&nbsp;RDD
+__Languages__ – Typescript, Javascript, PHP, Python, Ruby
+__Frameworks__ – Node.js, Express, Koa, Vue, Laravel, Slim, Kirby, PHPUnit, Mocha, Ava, Jest&nbsp;&&nbsp;tap
+__Datastores__ – PostgreSQL, MySQL, MongoDB, Redis&nbsp;&&nbsp;BigQuery
+__Tooling__ – Git, webpack&nbsp;&&nbsp;zsh
+__Operations__ – Kubernetes, Docker, EC2, Openshift, Azure, Docker&nbsp;&&nbsp;Vagrant
 
 ## Experience
 
 ### Software Team Lead, Snyk Ltd
-September 2019 – October 2020
+September 2019 – Present
 
 Software security tool for developers, helping companies use open source software and stay secure.
 
@@ -71,12 +35,14 @@ Software security tool for developers, helping companies use open source softwar
 * Introduced an experiments based methodology for the team which offered us the opportunity to explore and enhance the engagement and adoption of our features.
 * Leading planning sessions as part of the annual all-hands meeting and presenting the results back to a 200 strong audience. 
 
+## Previous Experience
+
 ### Developer, Snyk Ltd
 October 2017 – September 2019
 
 * Designing features with the product team based on user needs and outlining their implementation. 
 * Deliver a SaaS application incrementally in a full CI/CD workflow.
-* Working as part of a distributed team, communicating clearly and proactively and clear. 
+* Working as part of a distributed team, communicating clearly and proactively. 
 
 #### Highlights
 
@@ -139,9 +105,9 @@ Worked alongside a senior developer to design and build out a bespoke CMS for a 
 
 ## Interests
 
-Away from the computer, I’m a keen cyclist and can often be found meandering around the lanes of Kent and Surrey thinking of longer rides. The longest to date being a single day ride between London and Somerset.
+Away from the computer, I’m a keen cyclist and can often be found meandering around the Dutch polders looking for a hill to roll down. I enjoy longer endurance rides, the longest one to date being ~250km.
 
-I’m also in the early stages of learning German, aber diese ist ein langsamer Prozess.
+I’m also in the early stages of learning Dutch, maar het is langzaam proces
 
 
 ## Education
