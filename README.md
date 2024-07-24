@@ -10,7 +10,7 @@ I particularly enjoy projects where I can contribute from inception to completio
 
 ## Tools & Technologies
 
-__Ways of Working__ – Agile, scrum, mentoring, coaching, design thinking, TDD&nbsp;&&nbsp;RDD
+* __Ways of Working__ – Agile, scrum, mentoring, coaching, design thinking, TDD&nbsp;&&nbsp;RDD
 __Languages__ – Typescript, Javascript, PHP, Python, Ruby
 __Frameworks__ – Node.js, Express, Koa, Vue, Laravel, Slim, Kirby, PHPUnit, Mocha, Ava, Jest&nbsp;&&nbsp;tap
 __Datastores__ – PostgreSQL, MySQL, MongoDB, Redis&nbsp;&&nbsp;BigQuery
