@@ -4,7 +4,7 @@
 * [luke@bestemployeeever.com](mailto:luke@bestemployeeever.com)
 * [linkedin.com/in/thisislawatts](https://www.linkedin.com/in/thisislawatts)
 
-I am a full-stack developer with 15 years experience in product and agency environments. I thrive on learning new tools and technologies, whether for critical business projects or exploratory research.
+I am a creative problem solver with 15 years experience in product and agency environments. I thrive on learning new tools and technologies, whether for critical business projects or exploratory research.
 
 I particularly enjoy projects where I can contribute from inception to completion, starting from loose requirements or a quick sketch and working collaboratively to create valuable and impactful solutions. I am happy working collaboratively or independently, my primary focus is on creating something useful that brings value&nbsp;to&nbsp;people.
 
