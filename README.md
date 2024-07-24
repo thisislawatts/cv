@@ -20,7 +20,7 @@ I particularly enjoy projects where I can contribute from inception to completio
 ## Experience
 
 ### Staff Software Engineer, Snyk Ltd
-September 2022 – Present
+October 2022 – Present
 
 Snyk provides software security tooling for developers, helping companies use open source software and stay secure.
 
@@ -46,7 +46,7 @@ October – December 2023
 ## Previous Experience
 
 ### Senior Software Engineer, Snyk Ltd
-October 2020 – September 2022
+December 2021 – October 2022
 
 * Shaped our product and guided the team across multiple components and projects.
 * Innovated strategic design improvements for short-term gains and long-term advantages.
