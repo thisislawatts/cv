@@ -2,7 +2,7 @@
 
 * [+31 (0)&thinsp;624 882 690](tel:0031624882690)  
 * [luke@bestemployeeever.com](mailto:luke@bestemployeeever.com)
-* [LinkedIn](https://www.linkedin.com/in/thisislawatts)
+* [linkedin.com/in/thisislawatts](https://www.linkedin.com/in/thisislawatts)
 
 I am a full-stack developer with 15 years experience in product and agency environments. I thrive on learning new tools and technologies, whether for critical business projects or exploratory research.
 
