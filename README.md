@@ -5,17 +5,17 @@
 
 I am a full-stack developer with 15 years experience in product and agency environments. I thrive on learning new tools and technologies, whether for critical business projects or exploratory research.
 
-I particularly enjoy projects where I can contribute from inception to completion, starting from loose requirements or a quick sketch and working collaboratively to create valuable and impactful solutions. I am happy working collaboratively or independently, my primary focus is on creating something useful that brings value to people.
+I particularly enjoy projects where I can contribute from inception to completion, starting from loose requirements or a quick sketch and working collaboratively to create valuable and impactful solutions. I am happy working collaboratively or independently, my primary focus is on creating something useful that brings value&nbsp;to&nbsp;people.
 
 
 ## Tools & Technologies
 
-* __Ways of Working__ – Agile, scrum, mentoring, coaching, design thinking, TDD&nbsp;&&nbsp;RDD
-__Languages__ – Typescript, Javascript, PHP, Python, Ruby
-__Frameworks__ – Node.js, Express, Koa, Vue, Laravel, Slim, Kirby, PHPUnit, Mocha, Ava, Jest&nbsp;&&nbsp;tap
-__Datastores__ – PostgreSQL, MySQL, MongoDB, Redis&nbsp;&&nbsp;BigQuery
-__Tooling__ – Git, webpack&nbsp;&&nbsp;zsh
-__Operations__ – Kubernetes, Docker, EC2, Openshift, Azure, Docker&nbsp;&&nbsp;Vagrant
+* __Ways of Working__ – Agile, scrum, mentoring, coaching, design thinking, TDD&nbsp;&&nbsp;RDD 
+* __Languages__ – Typescript, Javascript, Go, Python, PHP, Ruby 
+* __Frameworks__ – Node.js, Express, React, Vue, Laravel, Slim, Kirby, PHPUnit, Vite, Jest&nbsp;&&nbsp;tap 
+* __Datastores__ – PostgreSQL, MySQL, MongoDB, Redis&nbsp;&&nbsp;BigQuery 
+* __Tooling__ – Git, Infrastructure as Code &nbsp;&&nbsp;zsh 
+* __Operations__ – Kubernetes, Docker, EC2, Openshift, Azure, Docker&nbsp;&&nbsp;Vagrant 
 
 ## Experience
 
