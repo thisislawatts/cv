@@ -3,9 +3,9 @@
 * [+31 (0)&thinsp;624 882 690](tel:0031624882690)  
 * [luke@bestemployeeever.com](mailto:luke@bestemployeeever.com)
 
-I am a full-stack developer with 9 years experience in product and agency teams. I enjoy learning new tools and technologies. This could be part of a business critical project or exploratory research.
+I am a full-stack developer with 15 years experience in product and agency environments. I thrive on learning new tools and technologies, whether for critical business projects or exploratory research.
 
-The most enjoyable projects to work on are those where I can take part from beginning to end. The starting point could be a loose collection of requirements or quick sketch. Working collaboratively to create something useful, that brings value to people.
+I particularly enjoy projects where I can contribute from inception to completion, starting from loose requirements or a quick sketch and working collaboratively to create valuable and impactful solutions. I am happy working collaboratively or independently, my primary focus is on creating something useful that brings value to people.
 
 
 ## Tools & Technologies
@@ -19,10 +19,47 @@ __Operations__ – Kubernetes, Docker, EC2, Openshift, Azure, Docker&nbsp;&&nbsp
 
 ## Experience
 
-### Software Team Lead, Snyk Ltd
-September 2019 – Present
+### Staff Software Engineer, Snyk Ltd
+September 2022 – Present
 
-Software security tool for developers, helping companies use open source software and stay secure.
+Snyk provides software security tooling for developers, helping companies use open source software and stay secure.
+
+* Collaborated across engineering units within the organization to prioritize, plan and deliver strategic business value.
+* Coded in TypeScript and Go, deployed in a CI/CD workflow, and automated infrastructure configuration for our services and distributable applications.
+* Exploratory design and architecture work to support the growth of the platform.
+* Improved platform API performance, reliability, and usability through observation and analysis.
+* Mentorship and coaching of engineers within the organization unit.
+* Integrated our tools and products with partner systems.
+* Participated in on-call rotation to maintain and support production services
+
+#### Highlights
+* 0 day gameday - a company wide event to simulate a zero day vulnerability affecting one of our dependencies and simulating far reaching consequences for our customers. 
+* Working with engineers across the company to secure their career development and growth.
+
+### Interim Engineering Director, Snyk Ltd
+October – December 2023
+
+* Responsible for the security intelligence and data engineering teams behind the open source security products.
+* Worked with the wider engineering leadership team to shape the future direction of the group.
+* Supported the engineering and product teams through a period of transition.
+
+## Previous Experience
+
+### Senior Software Engineer, Snyk Ltd
+October 2020 – September 2022
+
+* Shaped our product and guided the team across multiple components and projects.
+* Innovated strategic design improvements for short-term gains and long-term advantages.
+* Contributed code, prototyped, and developed testing strategies with a focus on iterative delivery.
+* Fostered inclusion and growth through pairing, feedback, and mentoring.
+* Collaborated with Product and Design teams to translate requirements into functional features.
+* Ensured consistent developer experience across all Snyk products.
+
+#### Highlights
+* Introducing support for `critical` severity across the entire Snyk platform. This involved working with the product and design teams to ensure the information was presented in a clear and actionable way.
+
+### Software Team Lead, Snyk Ltd
+September 2019 – October 2020
 
 * Providing team members with regular feedback, mentoring, and coaching.
 * Hiring the right people to support the team's growth.
@@ -35,7 +72,6 @@ Software security tool for developers, helping companies use open source softwar
 * Introduced an experiments based methodology for the team which offered us the opportunity to explore and enhance the engagement and adoption of our features.
 * Leading planning sessions as part of the annual all-hands meeting and presenting the results back to a 200 strong audience. 
 
-## Previous Experience
 
 ### Developer, Snyk Ltd
 October 2017 – September 2019
@@ -102,6 +138,13 @@ Summer 2010
 
 Worked alongside a senior developer to design and build out a bespoke CMS for a production studio. Notably this system handled video uploads and transcoding of video formats for playback a custom Flash media player.
 
+## Volunteering
+
+### Board Member, One Army Foundation
+January 2024 – Present
+
+### Maintainer, Community Platform for One Army Foundation
+October 2021 – December 2023
 
 ## Interests
 
