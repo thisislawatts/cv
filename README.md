@@ -4,159 +4,197 @@
 * [luke@bestemployeeever.com](mailto:luke@bestemployeeever.com)
 * [linkedin.com/in/thisislawatts](https://www.linkedin.com/in/thisislawatts)
 
-I am a creative problem solver with 15 years experience in product and agency environments. I thrive on learning new tools and technologies, whether for critical business projects or exploratory research.
+I am a creative problem solver with 15 years experience in product and agency environments, , most recently leading platform, security and compliance work. I enjoy learning new tools and technologies, for critical business projects and for research.
 
-I particularly enjoy projects where I can contribute from inception to completion, starting from loose requirements or a quick sketch and working collaboratively to create valuable and impactful solutions. I am happy working collaboratively or independently, my primary focus is on creating something useful that brings value&nbsp;to&nbsp;people.
-
+I like projects I can follow from start to finish, beginning with loose requirements or a quick sketch and working with others to build something of real value. I work well in a team or on my own. My focus is on making things that are useful to people.
 
 ## Tools & Technologies
 
-* __Ways of Working__ – Agile, scrum, mentoring, coaching, design thinking, TDD&nbsp;&&nbsp;RDD 
-* __Languages__ – Typescript, Javascript, Go, Python, PHP, Ruby 
-* __Frameworks__ – Node.js, Express, React, Vue, Laravel, Slim, Kirby, PHPUnit, Vite, Jest&nbsp;&&nbsp;tap 
-* __Datastores__ – PostgreSQL, MySQL, MongoDB, Redis&nbsp;&&nbsp;BigQuery 
-* __Tooling__ – Git, Infrastructure as Code &nbsp;&&nbsp;zsh 
-* __Operations__ – Kubernetes, Docker, EC2, Openshift, Azure, Docker&nbsp;&&nbsp;Vagrant 
+- **Ways of Working** – Shape Up, TDD, decision records, blameless post-mortems, mentoring & coaching
+- **Agentic Coding** – supervised agent workflows, sandboxed autonomous agent environments, reusable skills & reviewing agent output
+- **Languages** – TypeScript, JavaScript, Python, Go, SQL, PHP & Ruby
+- **Frameworks** – Node.js, NestJS, Express, React, Vue, Laravel, Vite, Jest & tap
+- **Datastores** – PostgreSQL, TimescaleDB, MySQL, MongoDB, Redis & BigQuery
+- **Platform** – Kubernetes, FluxCD, Helm, Airflow, Docker, Terraform & OpenTofu
+- **Cloud** – GCP (GKE, Cloud Run, Cloud SQL), AWS, Azure & OpenShift
+- **Observability** – Grafana, VictoriaMetrics, Alloy, PromQL & SLOs
+- **Security & Compliance** – SBOM, Dependency-Track, SSVC, OWASP ASVS, Auth0, Permify, ISO 27001, NIS2 & EU Cyber Resilience Act
 
 ## Experience
 
-### Staff Software Engineer, Snyk Ltd
-October 2022 – Present
+### Lead Software Engineer, Ampowr B.V.
 
-Snyk provides software security tooling for developers, helping companies use open source software and stay secure.
+February 2026 – Present
 
-* Collaborated across engineering units within the organization to prioritize, plan and deliver strategic business value.
-* Coded in TypeScript and Go, deployed in a CI/CD workflow, and automated infrastructure configuration for our services and distributable applications.
-* Exploratory design and architecture work to support the growth of the platform.
-* Improved platform API performance, reliability, and usability through observation and analysis.
-* Mentorship and coaching of engineers within the organization unit.
-* Integrated our tools and products with partner systems.
-* Participated in on-call rotation to maintain and support production services
+Ampowr is a Dutch battery energy storage company, running its own software across more than 100 customer sites.
+
+- Accountable owner of two EU regulatory programmes: the Digital Battery Passport (EU Battery Regulation, due February 2027) and the Cyber Resilience Act, including vulnerability triage with SSVC and the Article 14 reporting process.
+- Lead engineer for the cloud platform: site management APIs and UI, TimescaleDB, Airflow on GKE, and infrastructure as code with Terraform and OpenTofu.
+- Introduced GitOps to Ampowr. Kubernetes workloads had no GitOps before; Airflow and the shared backoffice cluster now deploy through FluxCD.
+- Built the open source governance programme: SBOMs for all deployed components, Dependency-Track, a licence approval playbook, and evidence mapped to ISO 27001 controls.
+- Set engineering standards across the organisation: code owners on 60 repositories, secret and dependency scanning on 56, and a minimum standard for production components agreed by the team.
+- Led incident response and introduced blameless post-mortems. Reworked SLOs and alerting so critical alerts are no longer lost in noise.
+- Supported the migration of the customer fleet from OpenEMS to Nova, Ampowr's own energy management stack.
+- Wrote the H2 2026 roadmap for Site Management and turned it into engineering goals for the team.
+- Wrote the Software Department career framework and a mentoring roadmap, and took over team retros and sprint ceremonies.
+- Started Innovation Days to build a learning culture. After a team survey, ran a two-day pilot in November 2026: roadmap sessions per domain to plan H1 2027, then an unconference and hackathon. Proposed regular innovation days for 2027 based on the result.
+- Reviewed more than 250 pull requests in four months.
 
 #### Highlights
-* 0 day gameday - a company wide event to simulate a zero day vulnerability affecting one of our dependencies and simulating far reaching consequences for our customers. 
-* Working with engineers across the company to secure their career development and growth.
+
+- Recovered a TimescaleDB cluster close to a full disk without a long outage. A full background worker pool had stopped all maintenance jobs for over a year; fixing it freed about 13 TiB on each host.
+- Prepared site management for its 2026 penetration test with a white-box review and an OWASP ASVS pass, then shipped around 15 authorisation and validation fixes before testing started.
+- Found why customer dashboards were slow: short time ranges skipped the pre-aggregated data, so an 8 hour query was about 500 times slower than a 9 hour one.
+- Selected and deployed Apache Airflow on GKE, with Cloud KMS, External Secrets, alerting and a chaos test to prove failures are reported.
+
+### Staff Software Engineer, Snyk Ltd
+
+October 2022 – January 2026
+
+Snyk builds security tools for developers, helping companies use open source software safely.
+
+- Worked across engineering groups to prioritise, plan and deliver work with clear business value.
+- Wrote TypeScript and Go, shipped through CI/CD, and automated the infrastructure for our services and distributed applications.
+- Did exploratory design and architecture work to support the growth of the platform.
+- Improved API performance, reliability and usability, based on monitoring and analysis.
+- Mentored and coached engineers across the group.
+- Integrated our products with partner systems.
+- Took part in the on-call rotation for production services.
+
+#### Highlights
+
+- Zero-day game day: a company-wide exercise simulating a zero-day vulnerability in one of our dependencies, and its wider effect on our customers.
+- Supported engineers across the company with their career development.
 
 ### Interim Engineering Director, Snyk Ltd
+
 October – December 2023
 
-* Responsible for the security intelligence and data engineering teams behind the open source security products.
-* Worked with the wider engineering leadership team to shape the future direction of the group.
-* Supported the engineering and product teams through a period of transition.
+- Responsible for the security intelligence and data engineering teams behind the open source security products.
+- Worked with the wider engineering leadership team to set the future direction of the group.
+- Supported the engineering and product teams through a period of change.
 
 ## Previous Experience
 
 ### Senior Software Engineer, Snyk Ltd
-December 2021 – October 2022
 
-* Shaped our product and guided the team across multiple components and projects.
-* Innovated strategic design improvements for short-term gains and long-term advantages.
-* Contributed code, prototyped, and developed testing strategies with a focus on iterative delivery.
-* Fostered inclusion and growth through pairing, feedback, and mentoring.
-* Collaborated with Product and Design teams to translate requirements into functional features.
-* Ensured consistent developer experience across all Snyk products.
+January 2021 – October 2022
+
+- Shaped the product and guided the team across several components and projects.
+- Proposed design improvements with both short and long term benefits.
+- Wrote code, built prototypes and designed testing strategies, delivering in small steps.
+- Supported inclusion and growth through pairing, feedback and mentoring.
+- Worked with Product and Design to turn requirements into working features.
+- Kept the developer experience consistent across all Snyk products.
 
 #### Highlights
-* Introducing support for `critical` severity across the entire Snyk platform. This involved working with the product and design teams to ensure the information was presented in a clear and actionable way.
+
+- Added support for `critical` severity across the whole Snyk platform, working with Product and Design so the information was clear and actionable.
 
 ### Software Team Lead, Snyk Ltd
-September 2019 – October 2020
 
-* Providing team members with regular feedback, mentoring, and coaching.
-* Hiring the right people to support the team's growth.
-* Organizing and facilitating quarterly team planning sessions for our distributed team.
-* Working with your team’s product manager to plan and achieve goals to ensure the team communicates proactively and sets realistic expectations with their stakeholders.
-* Balance feature delivery with ongoing technical investment.
+September 2019 – January 2021
+
+- Gave team members regular feedback, mentoring and coaching.
+- Hired the right people to help the team grow.
+- Ran quarterly planning sessions for our distributed team.
+- Worked with the product manager to plan and reach goals, communicate early, and set realistic expectations with stakeholders.
+- Balanced feature delivery with ongoing technical investment.
 
 #### Highlights
 
-* Introduced an experiments based methodology for the team which offered us the opportunity to explore and enhance the engagement and adoption of our features.
-* Leading planning sessions as part of the annual all-hands meeting and presenting the results back to a 200 strong audience. 
-
+- Introduced an experiment-based way of working, so we could test and improve how people used and adopted our features.
+- Led planning sessions at the annual all-hands and presented the results to an audience of 200.
 
 ### Developer, Snyk Ltd
+
 October 2017 – September 2019
 
-* Designing features with the product team based on user needs and outlining their implementation. 
-* Deliver a SaaS application incrementally in a full CI/CD workflow.
-* Working as part of a distributed team, communicating clearly and proactively. 
+- Designed features with the product team based on user needs, and planned how to build them.
+- Delivered a SaaS application in small steps through a full CI/CD workflow.
+- Worked in a distributed team, communicating clearly and early.
 
 #### Highlights
 
-* Introducing Vue to begin the migration from a server rendered application to one with more client side components to support more interactive user experiences. 
-* Migrated the e2e test suite from Nightwatch to  Cypress making it easier for developers to run and author additional tests locally. 
+- Introduced Vue to start moving from a server-rendered application to client-side components, for more interactive features.
+- Moved the end-to-end test suite from Nightwatch to Cypress, making it easier for developers to run and write tests locally.
 
 ### Technical Lead, Bravo Charlie Mike Hotel
+
 January 2015 – October 2017
 
-Design and branding agency working internationally to deliver projects for clients across a wide variety of sectors.
+A design and branding agency delivering projects for international clients across many sectors.
 
-* Lead delivery of all digital projects within the company. This covers each step of a typical project life&#8209;cycle and managing client relationships.
-* Project scoping and management with clients to ensure their systems are delivered on time.
-* Accompany the company directors to new business pitches, providing bid&#8209;winning technical ideas.
-* Work closely with designers to implement prototypes which demonstrate how their visuals can be achieved across devices. 
-* Provide documentation and training during the project completion process.
-* Design and implement feedback cycles with client’s to enable sprint based approach on larger projects.
+- Led delivery of all digital projects, covering the full project life‑cycle and client relationships.
+- Scoped and managed projects with clients so their systems were delivered on time.
+- Joined the directors at new business pitches, contributing technical ideas that helped win work.
+- Worked closely with designers on prototypes showing how their designs would work across devices.
+- Wrote documentation and gave training at project handover.
+- Set up feedback cycles with clients so larger projects could run in sprints.
 
-Alongside the demands of client work I have also:
+Alongside client work I also:
 
-* Built bespoke invoice software for the company and introduced specialist accounting software to automate most of the financial tasks.
-* Maintained the studio's suite of machines (primarily OSX)
-* Introduced offsite backup procedures to ensure ultimate resilience for the company's data.
+- Built invoicing software for the company and introduced accounting software that automated most financial tasks.
+- Maintained the studio's computers (mostly macOS).
+- Introduced offsite backups to protect the company's data.
 
 #### Highlights
 
-* Working with the estates team at Kings Cross to put together a performance piece with fountains, powered by GIF imagery, to accompany a string quartet at Kings Cross Granary Square. As part of the designjunction event, it attracted over 25,000 visitors over the weekend. 
-* Introducing the team to new methodologies and techniques, such as weekly sprints, mobile first and responsive design patterns. 
+- Worked with the Kings Cross estates team on a performance piece of fountains driven by GIF imagery, accompanying a string quartet in Granary Square. Part of the designjunction event, it drew over 25,000 visitors in one weekend.
+- Introduced the team to new ways of working, such as weekly sprints and mobile-first, responsive design.
 
 ### Director, LA Code & Design Ltd
+
 December 2012 – 2014
 
-Worked as full stack web developer on a contract basis with a number of London based design firms. 
+Worked as a full stack web developer on contract for several London design studios.
 
-* Working alongside designers from the earliest stages of prototyping and scoping out projects through to completion, troubleshooting and handover.
-* Providing in-office training as part of the hand-over with the client teams.
+- Worked with designers from early prototyping and scoping through to completion, troubleshooting and handover.
+- Gave in-office training to client teams at handover.
 
 #### Highlights
 
-* Working alongside multiple teams across different studios. This offered me the chance to experience different working methodologies. 
-* Being able to have the flexibility to attend industry events in the UK and abroad.  
-
+- Worked with teams at several studios, which gave me experience of different ways of working.
+- Had the flexibility to attend industry events in the UK and abroad.
 
 ### Developer, Signal Noise
+
 September 2010 – November 2011
 
-As the first hire at this data design agency, I worked directly with the design directors in building out web projects and physical prototypes. 
+As the first hire at this data design agency, I worked directly with the design directors on web projects and physical prototypes.
 
+### Sessional Lecturer, University of the Arts London & University for the Creative Arts
 
-### Sessional Lecturer, University for the Arts London & University for the Creative Arts
 September 2010 – June 2012
 
-I focused on introducing web technologies as a medium for editorial output, across a few undergraduate and postgraduate level courses. The short course was split between introductory sessions and workshopping on a one to one level with individual students.
+I taught web technologies as a medium for editorial work on undergraduate and postgraduate courses. Each short course mixed introductory sessions with one-to-one workshops with students.
 
 ### Developer, Inventive & Co
+
 Summer 2010
 
-Worked alongside a senior developer to design and build out a bespoke CMS for a production studio. Notably this system handled video uploads and transcoding of video formats for playback a custom Flash media player.
+Worked with a senior developer to design and build a custom CMS for a production studio. It handled video uploads and transcoding for playback in a custom Flash media player.
 
 ## Volunteering
 
 ### Board Member, One Army Foundation
+
 January 2024 – Present
 
 ### Maintainer, Community Platform for One Army Foundation
+
 October 2021 – December 2023
 
 ## Interests
 
 Away from the computer, I’m a keen cyclist and can often be found meandering around the Dutch polders looking for a hill to roll down. I enjoy longer endurance rides, the longest one to date being ~250km.
 
-I’m also in the early stages of learning Dutch, maar het is langzaam proces
-
+I’m also in the early stages of learning Dutch, maar het is een langzaam proces.
 
 ## Education
 
 ### University for the Creative Arts
+
 September 2007 – June 2010
 
 BA Hons - Graphic Design New Media 2:1
