@@ -29,23 +29,21 @@ February 2026 – Present
 Ampowr is a Dutch battery energy storage company, running its own software across more than 100 customer sites.
 
 - Accountable owner of two EU regulatory programmes: the Digital Battery Passport (EU Battery Regulation, due February 2027) and the Cyber Resilience Act, including vulnerability triage with SSVC and the Article 14 reporting process.
-- Lead engineer for the cloud platform: site management APIs and UI, TimescaleDB, Airflow on GKE, and infrastructure as code with Terraform and OpenTofu.
-- Introduced GitOps to Ampowr. Kubernetes workloads had no GitOps before; Airflow and the shared backoffice cluster now deploy through FluxCD.
+- Lead engineer for the cloud platform: site management APIs and UI, TimescaleDB, Airflow on GKE, and infrastructure as code with OpenTofu.
+- Introduced GitOps + Kubernetes; Airflow and the shared backoffice cluster now deploy through FluxCD with a wider rollout in 2027.
 - Built the open source governance programme: SBOMs for all deployed components, Dependency-Track, a licence approval playbook, and evidence mapped to ISO 27001 controls.
-- Set engineering standards across the organisation: code owners on 60 repositories, secret and dependency scanning on 56, and a minimum standard for production components agreed by the team.
-- Led incident response and introduced blameless post-mortems. Reworked SLOs and alerting so critical alerts are no longer lost in noise.
-- Supported the migration of the customer fleet from OpenEMS to Nova, Ampowr's own energy management stack.
-- Wrote the H2 2026 roadmap for Site Management and turned it into engineering goals for the team.
-- Wrote the Software Department career framework and a mentoring roadmap, and took over team retros and sprint ceremonies.
-- Started Innovation Days to build a learning culture. After a team survey, ran a two-day pilot in November 2026: roadmap sessions per domain to plan H1 2027, then an unconference and hackathon. Proposed regular innovation days for 2027 based on the result.
-- Reviewed more than 250 pull requests in four months.
+- Set engineering standards across the organisation; code owners, secret and dependency scanning and iterated on minimum standards for production components agreed by the team.
+- Led incident response and championed blameless post-mortems. Reworked SLOs and alerting so critical alerts are no longer lost in noise.
+- Supported the migration of the customer fleet to Ampowr's own energy management stack.
+- Wrote the Software Department career framework and a mentoring roadmap.
+- Ran a 2 day "Innovation Days" to build a learning culture; roadmap sessions per domain to plan H1 2027 and a hackathon.
 
 #### Highlights
 
-- Recovered a TimescaleDB cluster close to a full disk without a long outage. A full background worker pool had stopped all maintenance jobs for over a year; fixing it freed about 13 TiB on each host.
-- Prepared site management for its 2026 penetration test with a white-box review and an OWASP ASVS pass, then shipped around 15 authorisation and validation fixes before testing started.
-- Found why customer dashboards were slow: short time ranges skipped the pre-aggregated data, so an 8 hour query was about 500 times slower than a 9 hour one.
-- Selected and deployed Apache Airflow on GKE, with Cloud KMS, External Secrets, alerting and a chaos test to prove failures are reported.
+- Recovered a TimescaleDB cluster close to a full disk without a long outage, reducing costs by ~70%.
+- Prepared site management for its 2026 penetration test with a white-box review and an OWASP ASVS pass, shipping around 15 authorisation and validation fixes before testing started.
+- Found why customer dashboards were slow: identifying patterns that led to queries being 500 times slower and introduced optimisations.
+- Supported the Data team in selecting and deploying Apache Airflow on GKE, with Cloud KMS, External Secrets, alerting and a chaos test to prove failures are reported.
 
 ### Staff Software Engineer, Snyk Ltd
 
